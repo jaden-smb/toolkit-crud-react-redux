@@ -46,7 +46,6 @@ function TaskForm() {
 
   return (
     <form onSubmit={handleSubmit} className="bg-zinc-800 max-w-sm p-4">
-      <h1>CRUD App</h1>
       <label className="block text-sm font-bold">Task:</label>
       <input
         type="text"

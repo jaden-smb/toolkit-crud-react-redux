@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div className="bg-zinc-900 h-screen text-white">
+      <h1 className='text-center translate-y-6'>CRUD App - Redux Toolkit - jaden-smb</h1>
       <div className='flex items-center justify-center h-full'>
         <BrowserRouter>
           <Routes>
